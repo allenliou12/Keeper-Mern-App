@@ -51,7 +51,6 @@ A full-stack note-taking application inspired by Google Keep, built with the MER
 ![{9D8CA396-F8AE-4A22-95B5-78DD17062329}](https://github.com/user-attachments/assets/d535ddfb-bf19-4fd5-a4b9-64c7ab029241)
 
 
-## Contact
-Allen Liou:
-  Email:allenliou12@gmail.com
+## Contacts
+  Email me at: allenliou12@gmail.com
   LinkedIn: https://www.linkedin.com/in/allen-liou-295171175/
