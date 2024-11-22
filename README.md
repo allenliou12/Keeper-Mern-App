@@ -67,7 +67,8 @@ A full-stack note-taking application inspired by Google Keep, built with the MER
 - View notes: All notes are displayed in a responsive grid layout
 
 ## Screenshots
-[Add your application screenshots here]
+
+![Keeper App](https://github.com/user-attachments/assets/6b9ae511-b8ae-424e-89e9-828d7c69d994)
 
 ## Contact
 Allen Liou
