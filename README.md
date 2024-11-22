@@ -13,14 +13,20 @@ A full-stack note-taking application inspired by Google Keep, built with the MER
 ## Tech Stack
 
 ### Frontend
+<<<<<<< HEAD
 
+=======
+>>>>>>> bf318349ecabb6f23ec057dd2af3497c4767445c
 - React.js
 - Material-UI for styling
 - Context API for state management
 - Responsive design
 
 ### Backend
+<<<<<<< HEAD
 
+=======
+>>>>>>> bf318349ecabb6f23ec057dd2af3497c4767445c
 - Node.js
 - Express.js
 - MongoDB with Mongoose
@@ -29,20 +35,29 @@ A full-stack note-taking application inspired by Google Keep, built with the MER
 ## Installation
 
 1. Clone the repository
+<<<<<<< HEAD
 
+=======
+>>>>>>> bf318349ecabb6f23ec057dd2af3497c4767445c
    ```bash
    git clone https://github.com/allenliou12/keeper-mern-app.git
    ```
 
 2. Install frontend dependencies
+<<<<<<< HEAD
 
+=======
+>>>>>>> bf318349ecabb6f23ec057dd2af3497c4767445c
    ```bash
    cd frontend
    npm install
    ```
 
 3. Install backend dependencies
+<<<<<<< HEAD
 
+=======
+>>>>>>> bf318349ecabb6f23ec057dd2af3497c4767445c
    ```bash
    cd ../backend
    npm install
@@ -50,14 +65,20 @@ A full-stack note-taking application inspired by Google Keep, built with the MER
 
 4. Set up environment variables
    Create a `.env` file in the backend directory with:
+<<<<<<< HEAD
 
+=======
+>>>>>>> bf318349ecabb6f23ec057dd2af3497c4767445c
    ```
    PORT=4000
    MONGO_URI=your_mongodb_connection_string
    ```
 
 5. Run the application
+<<<<<<< HEAD
 
+=======
+>>>>>>> bf318349ecabb6f23ec057dd2af3497c4767445c
    ```bash
    # Start backend (from backend directory)
    npm start
@@ -78,8 +99,12 @@ A full-stack note-taking application inspired by Google Keep, built with the MER
 ![Keeper App](https://github.com/user-attachments/assets/6b9ae511-b8ae-424e-89e9-828d7c69d994)
 
 ## Contact
+<<<<<<< HEAD
 
 Allen Liou
 
+=======
+Allen Liou
+>>>>>>> bf318349ecabb6f23ec057dd2af3497c4767445c
 - GitHub: [@allenliou12](https://github.com/allenliou12)
 - LinkedIn: https://www.linkedin.com/in/allen-liou-295171175/
