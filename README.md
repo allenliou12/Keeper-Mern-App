@@ -48,7 +48,7 @@ A full-stack note-taking application inspired by Google Keep, built with the MER
    ```
 
 ## Screenshots
-![{9D8CA396-F8AE-4A22-95B5-78DD17062329}](https://github.com/user-attachments/assets/d535ddfb-bf19-4fd5-a4b9-64c7ab029241)
+![{73CBF7BC-4988-4760-83A7-1A10A66BC0F2}](https://github.com/user-attachments/assets/a0fe9ec2-9d2a-495f-865b-966c08ec5b68)
 
 
 ## Contacts
