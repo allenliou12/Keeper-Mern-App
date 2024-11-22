@@ -75,7 +75,7 @@ A full-stack note-taking application inspired by Google Keep, built with the MER
 
 ## Screenshots
 
-[Add your application screenshots here]
+![Keeper App](https://github.com/user-attachments/assets/d6fefb93-0336-4f66-95fb-eba5c6715105)
 
 ## Contact
 
